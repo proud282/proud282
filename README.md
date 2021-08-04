@@ -1,4 +1,4 @@
-### Hi I'm Nicharee Welcome to my Github profile 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+### Hi I'm Nicharee Welcome to my Github profile 👋 ![visitors](https://github.com/proud282/proud282/blob/main/README.md)
 visitors
 
 <!--
