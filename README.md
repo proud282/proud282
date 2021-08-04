@@ -4,16 +4,16 @@
 **proud282/proud282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-## Now
+# Now
 🏫 I’m studying Data science and innovation at Thammasart university.
 
 
-## Bio
+# Bio
 🌲Excel
 🐝 power BI
 🐰 R
 
-## 🌟Aim to be data scientist 👩‍💻 
+# 🌟Aim to be data scientist 👩‍💻 
 📝My plan  
 learning Excel/Google Sheets/Tableau/Power Bi/google data studio/MySQL/R/python
 <!--
