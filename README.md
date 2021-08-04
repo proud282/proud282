@@ -9,9 +9,9 @@ Here are some ideas to get you started:-->
 
 
 #### Bio
--🌲Excel
--🐝 power BI
--🐰 R
+- 🌲Excel
+- 🐝power BI
+- 🐰R
 
 #### 🌟Aim to be data scientist 👩‍💻 
 #### 📝My plan learning
