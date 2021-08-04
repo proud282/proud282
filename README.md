@@ -21,7 +21,7 @@ Here are some ideas to get you started:-->
 - Google Sheets
 - Tableau
 - Power Bi
-- google data studio
+- Google data studio
 - MySQL
 - R
 - Python
