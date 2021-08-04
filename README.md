@@ -1,8 +1,6 @@
 ### Hi I'm Nicharee Welcome to my Github profile 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=proud282&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proud282)](https://github.com/proud282/github-readme-stats)
 
 <!--
 **proud282/proud282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,6 +25,10 @@ Here are some ideas to get you started:-->
 - MySQL
 - R
 - python
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=proud282&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proud282)](https://github.com/proud282/github-readme-stats)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -37,3 +39,4 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
