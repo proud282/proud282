@@ -29,6 +29,8 @@ Here are some ideas to get you started:-->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=proud282&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proud282)](https://github.com/proud282/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proud282&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
