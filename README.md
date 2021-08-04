@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
 
 #### Bio
 - 🌲Excel
-- 🐝power BI
+- 🐝Power BI
 - 🐰R
 
 #### 🌟Aim to be data scientist 👩‍💻 
