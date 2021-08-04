@@ -9,21 +9,20 @@ Here are some ideas to get you started:-->
 
 
 #### Bio
-🌲Excel
-🐝 power BI
-🐰 R
+-🌲Excel
+-🐝 power BI
+-🐰 R
 
 #### 🌟Aim to be data scientist 👩‍💻 
-#### 📝My plan  
-learning 
-Excel
-Google Sheets
-Tableau
-Power Bi
-google data studio
-MySQL
-R
-python
+#### 📝My plan learning
+- Excel
+- Google Sheets
+- Tableau
+- Power Bi
+- google data studio
+- MySQL
+- R
+- python
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
