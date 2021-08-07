@@ -17,14 +17,18 @@ Here are some ideas to get you started:-->
 
 #### 🌟Aim to be data scientist 👩‍💻 
 #### 📝My plan learning
-- Excel
+- Mathematics & statistics
+- Excel*
 - Google Sheets
 - Tableau
 - Power Bi
 - Google data studio
-- MySQL
+- Manadala Analytics
+- MySQL*
+- Thai NLP*
+- pandas*
 - R
-- Python
+- Python*
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=proud282&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
